@@ -8,7 +8,7 @@
 ## Key for Comments
 :hammer: fix/edits\
 :toolbox: constructive criticism/suggestions for future code\
-:star: highlights or things I (reviewer) learned\
+:star: highlights or things I (reviewer) learned
 
 ### Project Organization
 - [ ] Project has a GitHub repository
