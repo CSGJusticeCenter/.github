@@ -5,6 +5,11 @@
 <!--- Put an `x` in the box when a task has been completed or reviewed with the project research staff. -->
 <!--- For any questions or concerns about the QAC, contact Research Deputy Directors Joshua Mallett or Sofia Nystrom -->
 
+## Key for Comments
+:hammer: fix/edits 
+:toolbox: constructive critisim/suggestions for future code
+:star: highlights or things I (reviewer) learned 
+
 ### Project Organization
 - [ ] Project has a GitHub repository
 - [ ] Project folder named according to QA Policy
